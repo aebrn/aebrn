@@ -7,7 +7,7 @@ repositories will probably be useless and uninteresting to you.
 
 - Discord: hell#0020
 - [Steam](https://www.steamcommunity.com/id/highimhell)
-- [highimhell.pw](https://www.highimhell.pw) or [highimhell.github.io](https://highimhell.github.io)
+- [highimhell.github.io](https://highimhell.github.io)
 
 <!--
 **highimhell/highimhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
