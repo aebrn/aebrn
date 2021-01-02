@@ -1,6 +1,6 @@
 ### high there I'm hell 👋
 
-I'm 20 years old from California now residing in Texas.  
+I'm 20 years old. He/him.  
   
 I've yet to start developing a project I'm excited about so until then all my  
 repositories will probably be useless and uninteresting to you.  
