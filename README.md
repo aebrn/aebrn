@@ -4,8 +4,6 @@ I'm 20 years old from California now residing in Texas.
   
 I've yet to start developing a project I'm excited about so until then all my  
 repositories will probably be useless and uninteresting to you.  
-Check out my Java [*event system*](https://github.com/highimhell/eventsystem) and [*command system*](https://github.com/highimhell/commandsystem) though, I think they're  
-pretty cool.
 
 - Discord: hell#0020
 - [Steam](https://www.steamcommunity.com/id/highimhell)
