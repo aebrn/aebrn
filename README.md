@@ -6,8 +6,6 @@ I've yet to start developing a project I'm excited about so until then all my
 repositories will probably be useless and uninteresting to you.  
 
 - Discord: hell#0020
-- [Steam](https://www.steamcommunity.com/id/aebrn)
-- [aebrn.github.io](https://aebrn.github.io)
 
 <!--
 **aebrn/aebrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
