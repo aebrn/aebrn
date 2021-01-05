@@ -1,4 +1,4 @@
-### high there I'm hell 👋
+### hi there I'm aebrn 👋
 
 I'm 20 years old. He/him.  
   
@@ -6,11 +6,11 @@ I've yet to start developing a project I'm excited about so until then all my
 repositories will probably be useless and uninteresting to you.  
 
 - Discord: hell#0020
-- [Steam](https://www.steamcommunity.com/id/highimhell)
-- [highimhell.github.io](https://highimhell.github.io)
+- [Steam](https://www.steamcommunity.com/id/aebrn)
+- [aebrn.github.io](https://aebrn.github.io)
 
 <!--
-**highimhell/highimhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aebrn/aebrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
