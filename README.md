@@ -1,10 +1,5 @@
 ### hi there I'm aebrn 👋
 
-I'm 20 years old. He/him.  
-  
-I've yet to start developing a project I'm excited about so until then all my  
-repositories will probably be useless and uninteresting to you.  
-
 - Discord: hell#0020
 
 <!--
