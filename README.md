@@ -1,7 +1,4 @@
 ### hi there I'm aebrn 👋
-
-- Discord: hell#0020
-
 <!--
 **aebrn/aebrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
